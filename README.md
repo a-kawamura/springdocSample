@@ -1,1 +1,1 @@
-ECHO ÇÕ <ON> Ç≈Ç∑ÅB
+Simple Springboot Rest appliaion by https://spring.io/guides/gs/rest-service/
